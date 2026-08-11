@@ -1,7 +1,3 @@
-Here is a complete, publication-ready **`README.md`** designed for your GitHub repository. It highlights the high-performance C++/CUDA architecture and includes detailed benchmark tables comparing **`torchattacks-cpp`** against the standard Python **`Torchattacks`** library.
-
-***
-
 # `torchattacks-cpp`
 
 > **High-Performance C++20 & Fused CUDA Library for Fast Adversarial Machine Learning Attacks**
